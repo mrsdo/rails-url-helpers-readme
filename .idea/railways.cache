@@ -1,0 +1,6 @@
+do /Users/mrsdo/Development/flatiron/p3/labs/rails-url-helpers-readme/bin/bundle exec /Users/mrsdo/.rvm/rubies/ruby-2.7.2/bin/ruby /Users/mrsdo/Development/flatiron/p3/labs/rails-url-helpers-readme/bin/rails routes --trace 
+Ruby enVironment Manager 1.29.12 (latest) (c) 2009-2020 Michal Papis, Piotr Kuczynski, Wayne E. Seguin
+
+Prefix Verb URI Pattern          Controller#Action
+ posts GET  /posts(.:format)     posts#index
+  post GET  /posts/:id(.:format) posts#show
